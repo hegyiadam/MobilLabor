@@ -1,2 +1,7 @@
 Source:
 https://lyricsovh.docs.apiary.io/#reference/0/lyrics-of-a-song/search?console=1
+
+Követelmények:
+- Lehessen keresni dalszövegre
+- Megjeleníti a már keresett szövegeket
+- Note-okat lehet adni a szöveghez
